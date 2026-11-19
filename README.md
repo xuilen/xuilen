@@ -68,13 +68,13 @@
 | **Folio** | 清理流式 Markdown 测试挂载，防护定时器回调，修复测试环境销毁后的异常 | [#323](https://github.com/helsome/folio/pull/323) |
 | **DeerFlow** | 同步中文 README 的功能说明与导航链接 | [#6947](https://github.com/bytedance/deer-flow/pull/6947) |
 
-<sub>以上合并状态核验于 2026-11-18。<a href="https://github.com/search?q=is%3Apr+author%3Axuilen+is%3Amerged+-user%3Axuilen&amp;type=pullrequests">查看已合并贡献</a> · <a href="https://github.com/search?q=is%3Apr+author%3Axuilen+is%3Aopen+-user%3Axuilen&amp;type=pullrequests">查看进行中的 PR</a></sub>
+<sub>以上合并状态核验于 2026-11-19。<a href="https://github.com/search?q=is%3Apr+author%3Axuilen+is%3Amerged+-user%3Axuilen&amp;type=pullrequests">查看已合并贡献</a> · <a href="https://github.com/search?q=is%3Apr+author%3Axuilen+is%3Aopen+-user%3Axuilen&amp;type=pullrequests">查看进行中的 PR</a></sub>
 
 ## 🛠️ 项目中使用的技术
 
 `TypeScript` · `JavaScript` · `Python` · `React` · `Next.js` · `Node.js` · `Electron` · `SQLite`
 
-近期关注：**多 Agent 协作、工作区记忆、可控执行、AI 创作流程**。
+近期关注：**Agent Runtime、Harness 工程、工作区记忆机制、MCP 协议、RAG 解析、多 Agent 协作、AI 创作流程**。
 
 ---
 
